@@ -7,3 +7,7 @@ password: admin
 to connect to  e-commerce site go to http://localhost/ecommerce/ and create account or login : 
 login : manel
 password: manel12345
+
+#e-commercePhp database.sql
+
+you can import the database sql in the folder HELP (database.sql) 
